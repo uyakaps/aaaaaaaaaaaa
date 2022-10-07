@@ -1714,15 +1714,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ !sound70
 
 ╭─❒ 「 TqTo 」 
-│○ My God
-│○ My Parents
-│○ Fatih A.
-│○ Ferdi
-│○ DikaArdnt
-│○ Mhankbarbar
-│○ Nurutomo
-│○ Rashid
-│○ ZeeoneOfc
 │○ Penyedia Module
 ╰❒ And All Support
     `
@@ -1734,7 +1725,7 @@ exports.rules = (prefix) => {
 
 1. Jangan spam bot. 🙅
 2. Jangan telepon bot. ☎️
-3. Jangan membandingkan bot 👍
+3. Jangan Kirim Bokep👍
 
 🗯️ Bot tidak atau lambat merespon ?
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
@@ -1770,9 +1761,7 @@ Goodbye`
 }
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
-
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Cari Apa? 
 `
 }
 exports.tos = (ownernomer) => {
@@ -1781,7 +1770,7 @@ exports.tos = (ownernomer) => {
 
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-
+https://trakteer.id/Bot-Rika
 Berapapun donasi kalian akan sangat berarti 👍
 Buat kalian yang sudah donasi bisa kirim bukti
 donasi ke owner agar bisa di masukkan ke list donasi
@@ -2438,14 +2427,6 @@ return`╭─❒ 「 Random Cewe 」
 exports.tqto = () =>{
 	return`╭─❒ 「 TqTo 」 
 │○ My God
-│○ My Parents
-│○ Fatih A.
-│○ Ferdi
-│○ DikaArdnt
-│○ Mhankbarbar
-│○ Nurutomo
-│○ Rashid
-│○ ZeeoneOfc
 │○ Penyedia Module
 ╰❒ And All Support
 `
